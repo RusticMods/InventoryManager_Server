@@ -35,7 +35,12 @@ This server package is not intended to be used alone. It is the companion to:
 
 ## Installation
 
-Install `InventoryManager_Server` on the **server**.
+- Click `Code`, then `Download ZIP`
+- Extract the folder within the ZIP file into your P drive
+- Remove the "-main" from the folder name (Eg: InventoryManager_Server instead of InventoryManager_Server-main)
+- Using AddonBuilder (or other packer tool), pack the folder into a PBO
+- Upload UNSIGNED PBO to server addons folder (Not server pack)
+- Done
 
 For full functionality, also install:
 
