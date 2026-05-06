@@ -150,3 +150,23 @@ profiles/RusticMods/Logs/
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**. See `LICENSE-GPL-3.0.txt` for the full license text.
+
+## Steam Workshop Redistribution
+
+This project is licensed under the GNU General Public License v3.0.
+
+You may upload, repost, fork, modify, or redistribute this project on Steam Workshop only if you follow the GPLv3 license terms.
+
+Any Steam Workshop upload or derivative version must:
+
+- Credit the original author: Rustic
+- Link to the original repository: https://github.com/RusticMods/InventoryManager_Server
+- Include a clear GPLv3 license notice
+- Provide access to the complete corresponding source code for the uploaded version
+- Clearly state whether changes were made
+- Preserve copyright and license notices
+- Not imply endorsement by the original author unless permission was explicitly granted
+
+Suggested attribution:
+
+“Based on InventoryManager_Server by Rustic, licensed under GPLv3. Original source: https://github.com/RusticMods/InventoryManager_Server. Modified version source: [Your Modified Source URL].”
