@@ -1,3 +1,7 @@
+DEPRECATED. REPLACED BY [InventoryManager](https://github.com/RusticMods/InventoryManager)
+
+---
+
 # InventoryManager_Server
 
 InventoryManager_Server is the **server-side authority half** of the Rustic inventory administration mod for DayZ. It handles configuration, RPC endpoints, inventory manipulation, notifications, and logging for the InventoryManager system.
