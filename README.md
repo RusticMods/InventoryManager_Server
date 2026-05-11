@@ -1,4 +1,4 @@
-DEPRECATED. REPLACED BY [InventoryManager](https://github.com/RusticMods/InventoryManager)
+# DEPRECATED. REPLACED BY [InventoryManager](https://github.com/RusticMods/InventoryManager)
 
 ---
 
